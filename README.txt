@@ -1,1 +1,1 @@
-hello Git and GirHub
+hello Git and GitHub
